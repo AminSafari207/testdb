@@ -1,5 +1,4 @@
 {
-    "callhistory": {
         "callhistory": [
             {
                 "id": 1,
@@ -7002,5 +7001,5 @@
                 "call_type": "incoming"
             }
         ]
-    }
+    
 }
